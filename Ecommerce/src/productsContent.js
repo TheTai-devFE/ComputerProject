@@ -42,7 +42,7 @@ const products = [
     category: "Macbook",
     description:
       "The MacBook Air M2 with a sleek fanless design and the powerful M2 chip delivers incredible performance in an ultra-portable form factor.",
-    image: "/src/assets/macbookairm2-removebg-preview.png",
+    image: "/assets/macbookairm2-removebg-preview.png",
   },
   {
     id: 6,
