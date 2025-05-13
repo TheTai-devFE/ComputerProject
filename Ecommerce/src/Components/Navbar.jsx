@@ -1,7 +1,7 @@
 import { ShoppingCart, User } from "lucide-react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/images-removebg-preview.png";
+import logo from "/public/assets/images-removebg-preview.png";
 import { useDispatch, useSelector } from "react-redux";
 import { setSearchTerm } from "../Features/products/ProductSlice";
 const Navbar = () => {
