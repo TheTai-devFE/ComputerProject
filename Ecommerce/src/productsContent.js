@@ -6,7 +6,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "The SFF-ready ProArt GeForce RTX™ 4070 OC Edition 12GB GDDR6X brings elegant and minimalist style to empower creator PC builds with full-scale GeForce RTX™ 40 Series performance",
-    image: "/src/assets/asus_rog-removebg-preview.png",
+    image: "/assets/asus_rog-removebg-preview.png",
   },
   {
     id: 2,
