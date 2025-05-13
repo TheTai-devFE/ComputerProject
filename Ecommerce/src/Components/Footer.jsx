@@ -1,5 +1,5 @@
 import { Facebook, Instagram, Twitter, Youtube } from "lucide-react";
-import logo from "/public/assets/images-removebg-preview.png";
+import logo from "/assets/images-removebg-preview.png";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
