@@ -6,7 +6,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "The SFF-ready ProArt GeForce RTX™ 4070 OC Edition 12GB GDDR6X brings elegant and minimalist style to empower creator PC builds with full-scale GeForce RTX™ 40 Series performance",
-    image: "/public/assets/asus_rog-removebg-preview.png",
+    image: "public/assets/asus_rog-removebg-preview.png",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "ASUS TUF Gaming Radeon RX 9070 XT OC Edition with military-grade components, lower temps, and enhanced durability",
-    image: "/public/assets/Png.png",
+    image: "public/assets/Png.png",
   },
   {
     id: 3,
