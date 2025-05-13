@@ -15,7 +15,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "ASUS TUF Gaming Radeon RX 9070 XT OC Edition with military-grade components, lower temps, and enhanced durability",
-    image: "public/assets/Png.png",
+    image: "/assets/Png.png",
   },
   {
     id: 3,
